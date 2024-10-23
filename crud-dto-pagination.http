@@ -1,0 +1,6 @@
+@crud_dto_pagination_HostAddress = http://localhost:5145
+
+GET {{crud_dto_pagination_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
